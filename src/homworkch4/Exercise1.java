@@ -1,4 +1,12 @@
 package homworkch4;
+/**
+ * @class :
+ * @author : Sultan Abuhijleh
+ * @version : 1.0
+ * @course : Itec 2140 Fall 2023
+ * @description : this program will take integer form the user and display if the number is prime or not
+ */
+
 import java.util.Scanner;
 public class Exercise1 {
     public static void main(String[] args) {

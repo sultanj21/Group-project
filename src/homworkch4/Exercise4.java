@@ -1,4 +1,12 @@
 package homworkch4;
+/**
+ * @class :EvenOdd
+ * @author : Sultan Abuhijleh
+ * @version : 1.0
+ * @course : Itec 2140 Fall 2023
+ * @description : this program will calculate the sum of all even numbers and the product of all odd numbers
+ */
+
 import java.util.Scanner;
 public class Exercise4 {
     public static void main(String[] args) {

@@ -1,4 +1,12 @@
 package homworkch4;
+/**
+ *  @class :Average
+ *  @author : Sultan Abuhijleh
+ *  @version : 1.0
+ * @course : Itec 2140 Fall 2023
+ * @description : this program will take the user grade and calculate the average
+ */
+
 import java.util.Scanner;
 public class Exercise2 {
     public static void main(String[] args) {
